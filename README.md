@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nuuki-desu
-- 👀 I’m interested in gaming, coding, reading.
-- 🌱 I’m currently learning C++, Python, Javascript. 
+- 👀 I’m interested in learning how to code! (E.G Making websites, platforms, and apps)
+- 🌱 I’m currently learning C++, Python, Javascript, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her/they/them. 
